@@ -1,5 +1,11 @@
 # Hi，
-## **欢迎访问** 
+
+## **欢迎访问**
+
 #### tobby3600 的个人主页!
 
-[![tobby3600的基本信息](https://luogu-card.vercel.app/practice?id=426462)](http://110.42.165.123)
+[](http://110.42.165.123)
+
+# 导航
+
+[Tobby URL Jump](https://tobby3600.github.io/jump/jump_help.txt)
