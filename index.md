@@ -8,4 +8,4 @@
 
 # 导航
 
-[Tobby URL Jump](https://tobby3600.github.io/jump/jump_help.txt)
+[Tobby URL Jump](https://tobby3600.github.io/jump/jump_help.md)
